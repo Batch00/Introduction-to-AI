@@ -1,0 +1,4 @@
+• Implement and train a convolutional neural network (CNN), specifically LeNet
+• Understand and count the number of trainable parameters in CNN
+• Explore different training configurations such as batch size, learning rate and training epochs.
+• Design and customize your own deep network for scene recognition
